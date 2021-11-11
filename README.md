@@ -1,0 +1,2 @@
+# FTP-GIT
+sync test
